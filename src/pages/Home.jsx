@@ -710,6 +710,7 @@ const Home = () => {
               <p>Haberler.com - Son Dakika Haberler ve Güncel Haberler</p>
               <p>Haber | Son Dakika | Haberler</p>
               <p>Gizlilik ve çerez ayarları !Hata Bildir! 06.04.2025 17:14:43 #1.13#</p>
+              <p>Harun Erdoğan Yazılım tarafından geliştirilmiştir.</p>
             </div>
           </div>
         </div>
